@@ -1,0 +1,33 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyInterpreterInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="django" />
+            <item index="1" class="java.lang.String" itemvalue="six" />
+            <item index="2" class="java.lang.String" itemvalue="pytest-django" />
+            <item index="3" class="java.lang.String" itemvalue="pytest-pythonpath" />
+            <item index="4" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="5" class="java.lang.String" itemvalue="djangorestframework-simplejwt" />
+            <item index="6" class="java.lang.String" itemvalue="Django" />
+            <item index="7" class="java.lang.String" itemvalue="djoser" />
+            <item index="8" class="java.lang.String" itemvalue="djangorestframework" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django.core.asgi" />
+          <option value="api_yamdb.users.models._" />
+          <option value="users.models._" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="TaskProblemsInspection" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
