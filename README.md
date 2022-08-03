@@ -11,6 +11,8 @@
 <img src="https://icongr.am/devicon/django-original.svg" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Django" width="50" height="50" />
+<img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
@@ -21,6 +23,8 @@
 <img src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/nginx-original.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
 <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="Django" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Django" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="Django" width="50" height="50" />
 </p>
 <br />
 
