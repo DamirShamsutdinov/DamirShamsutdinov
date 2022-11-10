@@ -31,6 +31,6 @@
 🔗 &nbsp;**You can connect with me**
 <p align="left">
 <a href="https://career.habr.com/alvareshd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/habr.svg" alt="DamirShamsutdinov" height="30" width="40" /></a>
-<a href="https://t.me/damir_shd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="DamirShamsutdinov" height="30" width="40" /></a>
+<a href="https://t.me/damir_kas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" alt="DamirShamsutdinov" height="30" width="40" /></a>
 <a href="mailto:damirshd@bk.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" alt="DamirShamsutdinov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/damir-shamsutdinov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" alt="DamirShamsutdinov" height="30" width="40" /></a>
