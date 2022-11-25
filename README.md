@@ -25,8 +25,8 @@
 <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="heroku" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="50" height="50" />
-<img src="https://img.stackshare.io/service/1075/celery.png" alt="celery" width="82.5" height="50" />
-<img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png" alt="redis" width="50" height="50" />
+<img src="https://img.stackshare.io/service/1075/celery.png" alt="celery" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="50" height="50" />
 </p>
 <br />
 
