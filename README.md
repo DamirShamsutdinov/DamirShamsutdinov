@@ -14,8 +14,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50" />
 <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" alt="swagger" width="50" height="50" />
 <img src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="github" width="50" height="50" />
-<img src="https://img.stackshare.io/service/1075/celery.png" alt="celery" width="50" height="50" />
-<img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png" alt="redis" width="50" height="50" />
 <img src="https://icongr.am/devicon/git-original-wordmark.svg?size=128&color=currentColor" alt="git" width="50" height="50" />
 <img src="https://icongr.am/devicon/linux-original.svg?size=128&color=currentColor" alt="linux" width="50" height="50" />
 <img src="https://icongr.am/devicon/vim-original.svg?size=128&color=currentColor" alt="vim" width="50" height="50" />
@@ -27,6 +25,8 @@
 <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="heroku" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" alt="confluence" width="50" height="50" />
+<img src="https://img.stackshare.io/service/1075/celery.png" alt="celery" width="82.5" height="50" />
+<img src="https://redis.com/wp-content/uploads/2021/08/redis-logo.png" alt="redis" width="50" height="50" />
 </p>
 <br />
 
